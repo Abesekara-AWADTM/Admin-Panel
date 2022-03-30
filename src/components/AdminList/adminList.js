@@ -59,13 +59,13 @@ function AdminList() {
               <div className="col-lg-12 grid-margin stretch-card">
                 <div className="card">
                   <div className="card-body">
-                    <h1 className="card-title">Admin List </h1>
+                    <h1 className="card-title"> Admin List </h1>
                     <br />
                     <div className="table-responsive">
                       <table className="table table-striped">
                         <thead>
                           <tr>
-                            <th>ID</th>
+                            <th> ADMIN ID</th>
                             <th>ADMIN NAME</th>
                             <th>EMAIL ADDRESS</th>
                             <th>MOBILE NUMBER</th>
