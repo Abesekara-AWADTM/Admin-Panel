@@ -6,7 +6,7 @@ class Dashboard extends Component {
 
     const logout = () => {
       window.localStorage.clear();
-      window.location.href =  "http://ec2-35-83-63-15.us-west-2.compute.amazonaws.com:8000";
+      window.location.href =  "http://fitbets-admin-panel.herokuapp.com/";
     }
     return (
       <div>
